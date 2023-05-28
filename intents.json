@@ -8,6 +8,7 @@
         "Hai",
         "Halo",
         "Helo",
+        "hallo",
         "Hmm",
         "Oy",
         "Oi",
@@ -15,7 +16,10 @@
         "Hoi",
         "Tes",
         "Test",
-        "P"
+        "P",
+        "selamat pagi",
+        "siang",
+        "sore"
       ],
       "responses": [
         "Hai, apa yang bisa saya bantu? ChatBot ini didesain untuk menjawab beberapa pertanyaan mengenai materi pendidikan karakter dalam bahasa Indonesia"
@@ -128,7 +132,34 @@
     {
       "tag": "Pokok Materi",
       "patterns": [
-        "Apa saja materi pada pelajaran pendidikan karakter ?"
+        "Apa saja materi pada pelajaran pendidikan karakter ?",
+        "chatbot ini berisikan materi apa saja",
+        "materi pelajaran pendidikan karakter",
+        "materi pendidikan karakter ini terdiri dari apa saja ?",
+        "materi pendidikan karakter ini terdiri dari bab apa saja",
+        "ada berapa bab materi pendidikan karakter",
+        "materi pendidikan karater ini ada berapa bab",
+        "apa saja pokok materi pada pelajaran ini",
+        "apa saja pokok materi pada pelajaran pendidikan karakter",
+        "pokok materi mata pelajaran pendidikan karakter",
+        "pokok materi pendidikan karakter",
+        "apa saja materi materi yang tersedia pada chat bot ini",
+        "apa saja materi mengenai pendidikan karakter yang terdapat pada chatbot ini",
+        "materi pendidikan karakter ini ada berapa bab?",
+        "pokok bahasan materi pendidikan karakter",
+        "apa saja pokok bahasan pada mata pelajaran pendidikan karakter",
+        "pokok materi pendidikan karakter",
+        "pokok bahasan pendidikan karakter",
+        "materi pelajaran pendidikan karakter",
+        "materi apa saja yang diajarkan dalam pembelajaran pendidikan karakter",
+        "apa bahan-bahan yang dibahas dalam pelajaran pendidikan karakter",
+        "pada pembelajaran pendidikan karakter, materi apa saja yang disampaikan ?",
+        "apa saja topik yang dibahas dalam pembelajaran pendidikan karakter ?",
+        "pada pelajaran pendidikan karakter, apa saja materi yang dijelaskan ?",
+        "apa isi materi pendidikan karakter",
+        "garis besar materi pendidikan karakter",
+        "garis besar materi apa saja yang dipelajari pada pelajaran pendidikan karakter",
+        "apa saja garis besar atau pokok bahasan di pelajaran pendidikan karakter"
 
       ],
       "responses": [
@@ -138,7 +169,28 @@
     {
       "tag": "Pokok bab 1",
       "patterns": [
-        "Bab 1 mempelajari tentang apa saja ?"
+        "Bab 1 mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab 1",
+        "materi apa yang diajarkan dalam bab 1",
+        "materi apa saja yang dipelajari pada bab 1",
+        "apa saja materi yang diajarkan di bab 1",
+        "apa isi pembelajaran yang ada di bab 1",
+        "materi bab 1",
+        "pokok bahasan bab 1",
+        "materi apa yang dijelaskan di bab 1",
+        "apa yang dibahas pada bab 1",
+        "apa saja pokok bahasan pada bab 1 ",
+        "Bab satu mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab satu",
+        "materi apa yang diajarkan dalam bab satu",
+        "materi apa saja yang dipelajari pada bab satu",
+        "apa saja materi yang diajarkan di bab satu",
+        "apa isi pembelajaran yang ada di bab satu",
+        "materi bab satu",
+        "pokok bahasan bab satu",
+        "materi apa yang dijelaskan di bab satu",
+        "apa yang dibahas pada bab satu",
+        "apa saja pokok bahasan pada bab satu"
 
       ],
       "responses": [
@@ -148,7 +200,28 @@
     {
       "tag": "Pokok bab 2",
       "patterns": [
-        "Bab 2 mempelajari tentang apa saja ?"
+        "Bab 2 mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab 2",
+        "materi apa yang diajarkan dalam bab 2",
+        "materi apa saja yang dipelajari pada bab 2",
+        "apa saja materi yang diajarkan di bab 2",
+        "apa isi pembelajaran yang ada di bab 2",
+        "materi bab 2",
+        "pokok bahasan bab 2",
+        "materi apa yang dijelaskan di bab 2",
+        "apa yang dibahas pada bab 2",
+        "apa saja pokok bahasan pada bab 2",
+        "Bab dua mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab dua",
+        "materi apa yang diajarkan dalam bab dua",
+        "materi apa saja yang dipelajari pada bab dua",
+        "apa saja materi yang diajarkan di bab dua",
+        "apa isi pembelajaran yang ada di bab dua",
+        "materi bab dua",
+        "pokok bahasan bab dua",
+        "materi apa yang dijelaskan di bab dua",
+        "apa yang dibahas pada bab dua",
+        "apa saja pokok bahasan pada bab dua"
 
       ],
       "responses": [
@@ -158,7 +231,29 @@
     {
       "tag": "Pokok bab 3",
       "patterns": [
-        "Bab 3 mempelajari tentang apa saja ?"
+        "Bab 3 mempelajari tentang apa saja ?",
+        "bab 3 pendidikan karakter",
+        "apa saja yang dipelajari di bab 3",
+        "materi apa yang diajarkan dalam bab 3",
+        "materi apa saja yang dipelajari pada bab 3",
+        "apa saja materi yang diajarkan di bab 3",
+        "apa isi pembelajaran yang ada di bab 3",
+        "materi bab 3",
+        "pokok bahasan bab 3",
+        "materi apa yang dijelaskan di bab 3",
+        "apa yang dibahas pada bab 3",
+        "apa saja pokok bahasan pada bab 3 ",
+        "Bab tiga mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab tiga",
+        "materi apa yang diajarkan dalam bab tiga",
+        "materi apa saja yang dipelajari pada bab tiga",
+        "apa saja materi yang diajarkan di bab tiga",
+        "apa isi pembelajaran yang ada di bab tiga",
+        "materi bab tiga",
+        "pokok bahasan bab tiga",
+        "materi apa yang dijelaskan di bab tiga",
+        "apa yang dibahas pada bab tiga",
+        "apa saja pokok bahasan pada bab tiga"
 
       ],
       "responses": [
@@ -168,7 +263,29 @@
     {
       "tag": "Pokok bab 4",
       "patterns": [
-        "Bab 4 mempelajari tentang apa saja ?"
+        "Bab 4 mempelajari tentang apa saja ?",
+        "bab 4 pendidikan karakter",
+        "apa saja yang dipelajari di bab 4",
+        "materi apa yang diajarkan dalam bab 4",
+        "materi apa saja yang dipelajari pada bab 4",
+        "apa saja materi yang diajarkan di bab 4",
+        "apa isi pembelajaran yang ada di bab 4",
+        "materi bab 4",
+        "pokok bahasan bab 4",
+        "materi apa yang dijelaskan di bab 4",
+        "apa yang dibahas pada bab 4",
+        "apa saja pokok bahasan pada bab 4",
+        "Bab empat mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab empat",
+        "materi apa yang diajarkan dalam bab empat",
+        "materi apa saja yang dipelajari pada bab empat",
+        "apa saja materi yang diajarkan di bab empat",
+        "apa isi pembelajaran yang ada di bab empat",
+        "materi bab empat",
+        "pokok bahasan bab empat",
+        "materi apa yang dijelaskan di bab empat",
+        "apa yang dibahas pada bab empat",
+        "apa saja pokok bahasan pada bab empat"
 
       ],
       "responses": [
@@ -178,7 +295,29 @@
     {
       "tag": "Pokok bab 5",
       "patterns": [
-        "Bab 5 mempelajari tentang apa saja ?"
+        "Bab 5 mempelajari tentang apa saja ?",
+        "bab 5 pendidikan karakter",
+        "apa saja yang dipelajari di bab 5",
+        "materi apa yang diajarkan dalam bab 5",
+        "materi apa saja yang dipelajari pada bab 5",
+        "apa saja materi yang diajarkan di bab 5",
+        "apa isi pembelajaran yang ada di bab 5",
+        "materi bab 5",
+        "pokok bahasan bab 5",
+        "materi apa yang dijelaskan di bab 5",
+        "apa yang dibahas pada bab 5",
+        "apa saja pokok bahasan pada bab 5",
+        "Bab lima mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab lima",
+        "materi apa yang diajarkan dalam bab lima",
+        "materi apa saja yang dipelajari pada bab lima",
+        "apa saja materi yang diajarkan di bab lima",
+        "apa isi pembelajaran yang ada di bab lima",
+        "materi bab lima",
+        "pokok bahasan bab lima",
+        "materi apa yang dijelaskan di bab lima",
+        "apa yang dibahas pada bab lima",
+        "apa saja pokok bahasan pada bab lima"
 
       ],
       "responses": [
@@ -188,7 +327,29 @@
     {
       "tag": "Pokok bab 6",
       "patterns": [
-        "Bab 6 mempelajari tentang apa saja ?"
+        "Bab 6 mempelajari tentang apa saja ?",
+        "bab 6 pendidikan karakter",
+        "apa saja yang dipelajari di bab 6",
+        "materi apa yang diajarkan dalam bab 6",
+        "materi apa saja yang dipelajari pada bab 6",
+        "apa saja materi yang diajarkan di bab 6",
+        "apa isi pembelajaran yang ada di bab 6",
+        "materi bab 6",
+        "pokok bahasan bab 6",
+        "materi apa yang dijelaskan di bab 6",
+        "apa yang dibahas pada bab 6",
+        "apa saja pokok bahasan pada bab 6",
+        "Bab enam mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab enam",
+        "materi apa yang diajarkan dalam bab enam",
+        "materi apa saja yang dipelajari pada bab enam",
+        "apa saja materi yang diajarkan di bab enam",
+        "apa isi pembelajaran yang ada di bab enam",
+        "materi bab enam",
+        "pokok bahasan bab enam",
+        "materi apa yang dijelaskan di bab enam",
+        "apa yang dibahas pada bab enam",
+        "apa saja pokok bahasan pada bab enam"
 
       ],
       "responses": [
@@ -198,7 +359,29 @@
     {
       "tag": "Pokok bab 7",
       "patterns": [
-        "Bab 7 mempelajari tentang apa saja ?"
+        "Bab 7 mempelajari tentang apa saja ?",
+        "bab 7 pendidikan karakter",
+        "apa saja yang dipelajari di bab 7",
+        "materi apa yang diajarkan dalam bab 7",
+        "materi apa saja yang dipelajari pada bab 7",
+        "apa saja materi yang diajarkan di bab 7",
+        "apa isi pembelajaran yang ada di bab 7",
+        "materi bab 7",
+        "pokok bahasan bab 7",
+        "materi apa yang dijelaskan di bab 7",
+        "apa yang dibahas pada bab 7",
+        "apa saja pokok bahasan pada bab 7",
+        "Bab tujuh mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab tujuh",
+        "materi apa yang diajarkan dalam bab tujuh",
+        "materi apa saja yang dipelajari pada bab tujuh",
+        "apa saja materi yang diajarkan di bab tujuh",
+        "apa isi pembelajaran yang ada di bab tujuh",
+        "materi bab tujuh",
+        "pokok bahasan bab tujuh",
+        "materi apa yang dijelaskan di bab tujuh",
+        "apa yang dibahas pada bab tujuh",
+        "apa saja pokok bahasan pada bab tujuh"
 
       ],
       "responses": [
@@ -292,27 +475,66 @@
     {
       "tag": "Undang-undang pendidikan",
       "patterns": [
-        "Definisi pendidikan menurut Undang-undang"
+        "Definisi pendidikan menurut Undang-undang",
+        "menurut undang-undang apa itu definisi pendidikan",
+        "undang undang pendidikan",
+        "isi dari undang undang no 2 tahun 1989",
+        "Undang undang no 2 tahun 1989 berbunyi",
+        "UU no 2 tahun 1989 isinya yaitu",
+        "menurut undang undang no 2 tahun 1989 pendidikan adalah",
+        "menurut ketentuan dalam undang undang no 2 tahun 1989 pendidikan didefinisikan sebagai",
+        "sesuai dengan peraturan perundang undangan nomor 2 tahun 1989 definisi pendidikan adalah",
+        "berdasarkan undang undang nomor 2 tahun 1989 definisi pendidikan adalah",
+        "menurut uu no 2 tahun 1989 pendidikan adalah",
+        "menurut peraturan uu no 2 tahun 1989 definisi dari pendidikan ialah"
 
       ],
       "responses": [
-        "Menurut UU No.2 Tahun 1989 Pendidikan adalah usaha sadar untuk menyiapkan peserta didik melalui kegiatan bimbingan, pengajaran, dan atau latihan bagi peranannya dimasa yang akan datang. <p>Menurut UU No. 20 Tahun 2003 Pendidikan adalah usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran agar peserta didik secara aktif me- ngembangkan potensi dirinya untuk memiliki kekuatan spiritual keagamaaan, pengendalian diri, kepribadian, kecerdasan, akhlak mulia, serta ketrampilan yang diperlukan dirinya, masyarakat, bangsa, dan Negara."
+        "Menurut UU No.2 Tahun 1989 Pendidikan adalah usaha sadar untuk menyiapkan peserta didik melalui kegiatan bimbingan, pengajaran, dan atau latihan bagi peranannya dimasa yang akan datang. <br><br>Menurut UU No. 20 Tahun 2003 Pendidikan adalah usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran agar peserta didik secara aktif me- ngembangkan potensi dirinya untuk memiliki kekuatan spiritual keagamaaan, pengendalian diri, kepribadian, kecerdasan, akhlak mulia, serta ketrampilan yang diperlukan dirinya, masyarakat, bangsa, dan Negara."
       ]
     },
     {
       "tag": "pendidikan menurut ahli",
       "patterns": [
-        "Definisi pendidikan menurut para ahli"
-
+        "Definisi pendidikan menurut para ahli",
+        "menurut pakar, pendidikan adalah",
+        "menurut para ahli pendidikan adalah",
+        "pandangan para ahli mengenai definisi pendidikan",
+        "tuliskan pengertian pendidikan menurut para ahli",
+        "apa saja pengertian pendidikan menurut ahlinya",
+        "apa definisi dari pendidikan yang dikemukakan oleh para ahli",
+        "menurut Langeveld pendidikan yaitu",
+        "pengertian pendidikan menurut langeveld",
+        "menurut john dewey pendidikan adalah",
+        "pengertian pendidikan menurut john dewey",
+        "menurut ki hajar dewantara pendidikan adalah",
+        "definisi pendidikan menurut ki hajar dewantara",
+        "menurut para ahli definisi dari pendidikan adalah",
+        "bagaimana para ahli memberikan definisi tentang pendidikan ?",
+        "interpretasi pendidikan dari sudut pandang ahli",
+        "perspektif para ahli mengenai pengertian pendidikan",
+        "siapa saja ahli ahli yang mengemukakan definisi dari pendidikan ?",
+        "para ahli mengatakan bahwa definisi dari pendidikan adalah ?",
+        "bagaimana pandangan dari para ahli terkait definisi pendidikan ?"
       ],
       "responses": [
-        "Menurut Langeveld Pendidikan adalah setiap usaha, pengaruh, perlindungan dan bantuan yang diberikan kepada anak tertuju pada pendewasaan anak itu, atau lebih tepat membantu anak agar cukup cakap melaksanakan tugas hidupnya sendiri. <p>Menurut John Dewey Pendidikan adalah proses pembentukan kecakapan-kecakapan fundamental secara intelektual dan emosional ke arah alam dan sesame manusia. <p>Menurut Ki Hajar Dewantara Pendidikan adalah tuntunan didalam hidup tumbuhnya anak-anak, adapun maksudnya, yaitu menuntun segala kekuatan kodrat yang ada pada anak itu, agar mereka sebagai manusia dan anggota masyarakat dapatlah mencapai keselamatan dan kebahagiaan yang setinggi-tingginya."
+        "Menurut Langeveld Pendidikan adalah setiap usaha, pengaruh, perlindungan dan bantuan yang diberikan kepada anak tertuju pada pendewasaan anak itu, atau lebih tepat membantu anak agar cukup cakap melaksanakan tugas hidupnya sendiri. <br><br>Menurut John Dewey Pendidikan adalah proses pembentukan kecakapan-kecakapan fundamental secara intelektual dan emosional ke arah alam dan sesame manusia. <br><br>Menurut Ki Hajar Dewantara Pendidikan adalah tuntunan didalam hidup tumbuhnya anak-anak, adapun maksudnya, yaitu menuntun segala kekuatan kodrat yang ada pada anak itu, agar mereka sebagai manusia dan anggota masyarakat dapatlah mencapai keselamatan dan kebahagiaan yang setinggi-tingginya."
       ]
     },
     {
       "tag": "kamus pendidikan",
       "patterns": [
-        "Dalam Dictionary of Education dinyatakan bahwa pendidikan adalah"
+        "Dalam Dictionary of Education dinyatakan bahwa pendidikan adalah ?",
+        "menurut Dictionary of Education pendidikan diartikan sebagai",
+        "dalam kamus pendidikan, tertera bahwa pendidikan merupakan ?",
+        "kamus pendidikan mendefinisikan bahwa yang dimaksud dengan pendidikan yaitu ?",
+        "tuliskan definisi pendidikan menurut Dictionary of Education",
+        "menurut kamus pendidikan definisi dari pendidikan yaitu ?",
+        "pengertian pendidikan menurut Dictionary of Education",
+        "menurut keterangan dalam kamus pendidikan, tertera bahwa pendidikan adalah ?",
+        "apa pengertian dari pendidikan berdasarkan kamus pendidikan",
+        "Dictionary of Education menjelaskan bahwa pendidikan adalah ?",
+        "sesuai dengan penjelasan dalam kamus pendidikan, pendidikan diartikan sebagai ?"
 
       ],
       "responses": [
@@ -322,17 +544,30 @@
     {
       "tag": "kegiatan manusiawi",
       "patterns": [
-        "Pendidikan sebagai sebuah kegiatan manusiawi"
+        "Pendidikan sebagai sebuah kegiatan manusiawi",
+        "apa yang dimaksud dengan pendidikan sebagai sebuah kegiatan manusiawi",
+        "sebagai sebuah kegiatan manusiawi, pendidikan merupakan ?",
+        "bagaimana pendidikan dijelaskan sebagai aktivitas manusiawi ?",
+        "tuliskan apa yang kamu ketahui mengenai pendidikan sebagai sebuah kegiatan manusiawi "
 
       ],
       "responses": [
-        "Sebagai sebuah kegiatan manusiawi, pendidikan membuat manusia membuka diri terhadap dunia. Manusia berkembang melalui kegiatan membudaya dalam memaknai sejarahnya di dunia ini, memahami kebebasannya yang selalu ada dalam situasi agar mereka semakin mampu memberdayakan dirinya. Dalam bahasa Driyarkara, kondisi ini disebut sebagai pengangkatan diri sendiri di atas kodrat alam dan dunia material di atas determinisnya. Sebagai sebuah kegiatan manusiawi, pendidikan juga menyertakan dimensi penggolongan kelas dalam corak relasionalisnya. Dalam penggunaan kata sehari-hari, misalnya ketika kita mengatakan pendidikan, apa yang dimaksudkan terutama adalah sebuah kegiatan manusiawi yang berkaitan dengan figur yang memiliki peran khusus, seperti orang tua, guru, pengajar, dosen, imam, pendidik. Singkatnya pendidikan bisa mengacu pada semua subjek yang memiliki konteks relasional secara khusus dengan subjek lain, memiliki relasi yang sifatnya interpersonal, sebuah relasi terarah pada proses pemeliharaan, penumbuhan, dan membentuk seorang individu yang sedang ada di dalam proses pertumbuhan."
+        "Sebagai sebuah kegiatan manusiawi, pendidikan membuat manusia membuka diri terhadap dunia. Manusia berkembang melalui kegiatan membudaya dalam memaknai sejarahnya di dunia ini, memahami kebebasannya yang selalu ada dalam situasi agar mereka semakin mampu memberdayakan dirinya. Dalam bahasa Driyarkara, kondisi ini disebut sebagai pengangkatan diri sendiri di atas kodrat alam dan dunia material di atas determinisnya. <br>Sebagai sebuah kegiatan manusiawi, pendidikan juga menyertakan dimensi penggolongan kelas dalam corak relasionalisnya. Dalam penggunaan kata sehari-hari, misalnya ketika kita mengatakan pendidikan, apa yang dimaksudkan terutama adalah sebuah kegiatan manusiawi yang berkaitan dengan figur yang memiliki peran khusus, seperti orang tua, guru, pengajar, dosen, imam, pendidik. Singkatnya pendidikan bisa mengacu pada semua subjek yang memiliki konteks relasional secara khusus dengan subjek lain, memiliki relasi yang sifatnya interpersonal, sebuah relasi terarah pada proses pemeliharaan, penumbuhan, dan membentuk seorang individu yang sedang ada di dalam proses pertumbuhan."
       ]
     },
     {
       "tag": "tindakan edukatif",
       "patterns": [
-        "Pendidikan sebagai tindakan edukatif "
+        "Pendidikan sebagai tindakan edukatif",
+        "apa yang dimaksudkan dengan pendidikan sebagai tindakan edukatif ?",
+        "mengapa pendidikan dikatakan sebagai tindakan edukatif ?",
+        "arti yang terkandung dalam pendidikan sebagai tindakan edukatif menjelaskan bahwa ?",
+        "apa yang kamu ketahui mengenai pendidikan sebagai tindakan edukatif",
+        "tindakan edukatif pendidikan",
+        "pendidikan dikatakan sebagai tindakan edukatif karena",
+        "mengapa pendidikan merupakan tindakan edukatif ?",
+        "alasan mengapa pendidikan disebut sebagai tindakan edukatif karena ?",
+        "pendidikan dimaknai sebagai tindakan edukatif yang berarti ?"
 
       ],
       "responses": [
@@ -342,7 +577,16 @@
     {
       "tag": "tindakan didaktis",
       "patterns": [
-        "Pendidikan sebagai tindakan didaktis"
+        "Pendidikan sebagai tindakan didaktis",
+        "tindakan didaktis pendidikan yaitu",
+        "tuliskan mengapa pendidikan dikatakan sebagai tindakan didaktis",
+        "arti dari pendidikan sebagai tindakan didaktis adalah",
+        "pendidikan dimaksudkan sebagai tindakan didaktis yang berarti ?",
+        "inti dari pendidikan sebagai tindakan didaktis adalah ?",
+        "yang dimaksud dengan pendidikan sebagai tindakan didaktis adalah ?",
+        "pendidikan sebagai tindakan didaktis yang berarti ?",
+        "tujuan yang ingin dicapai melalui pendidikan sebagai tindakan didaktis adalah ?",
+        "tindakan didaktis merupakan tujuan pendidikan yang berarti ?"
 
       ],
       "responses": [
@@ -352,7 +596,25 @@
     {
       "tag": "dua dimensi tindakan didaktis",
       "patterns": [
-        "Dua dimensi pada tindakan didaktis"
+        "Dua dimensi pada tindakan didaktis",
+        "tindakan didaktis mempunyai dua dimensi yaitu ",
+        "apa saja 2 dimensi tindakan didaktis",
+        "tindakan didaktis memiliki 2 dimensi yaitu?",
+        "2 komponen penting dari pendidikan sebagai tindakan didaktis adalah ?",
+        "apa itu dimensi teknis praktis ?",
+        "apa itu dimensi sosial etis ?",
+        "yang dimaksud dengan dimensi teknis praktis pada tindakan didaktis adalah ?",
+        "maksud dari dimensi sosial etis dari tindakan didaktis yaitu ?",
+        "apa yang kamu ketahui mengenai dimensi pada tindakan didaktis",
+        "tindakan didaktis terbagi menjadi 2 dimensi yaitu ?",
+        "tindakan didaktis pendidikan terbagi menjadi dua dimensi yaitu",
+        "apa saja dua elemen pada tindakan didaktis ?",
+        "tindakan didaktis mempunyai dua komponen, apa saja ?",
+        "2 karakteristik pada tindakan didaktis yaitu ?",
+        "tuliskan dua dimensi tindakan didaktis yang kamu ketahui",
+        "jelaskan dimensi teknis praktis terhadap tindakan didaktis pendidikan ",
+        "jelaskan dimensi sosial etis dari tindakan didaktis pendidikan",
+        "pendidikan sebagai tindakan didaktis mempunyai 2 dimensi yaitu ?"
 
       ],
       "responses": [
@@ -362,7 +624,20 @@
     {
       "tag": "fungsi normatif pendidikan",
       "patterns": [
-        "Tiga fungsi normatif pendidikan"
+        "Tiga fungsi normatif pendidikan",
+        "apa saja fungsi normatif pendidikan",
+        "jelaskan 3 fungsi normatif pendidikan",
+        "tuliskan tiga fungsi normatif pendidikan yang kamu ketahui",
+        "fungsi normatif pendidikan terbagi menjadi 3 yaitu",
+        "secara normatif ada tiga fungsi tujuan pendidikan yaitu ?",
+        "apa saja 3 fungsi normatif pendidikan",
+        "ada beberapa tujuan pendidikan yaitu ?",
+        "apa saja tujuan dari pendidikan ?",
+        "sebutkan tujuan dari pendidikan ?",
+        "pendidikan mempunyai suatu tujuan, apa saja tujuan tersebut?",
+        "berikan 3 fungsi normatif pendidikan yang kamu ketahui",
+        "tujuan pendidikan berdasarkan fungsi normatifnya adalah ?",
+        "berdasarkan fungsi normatifnya tujuan dari pendidikan adalah ?"
 
       ],
       "responses": [
@@ -372,7 +647,13 @@
     {
       "tag": "Pendidikan sebagai orientasi kelembagaan",
       "patterns": [
-        "Pendidikan sebagai orientasi kelembagaan"
+        "Pendidikan sebagai orientasi kelembagaan",
+        "yang dimaksud dengan pendidikan sebagai orientasi kelembagaan adalah ?",
+        "pendidikan bersifat direktif atau orientatif bagi kinerja lembaga pendidikan artinya adalah ?",
+        "makna dari pendidikan sebagai arah kelembagaan adalah ?",
+        "jelaskan maksud dari fungsi pertama tujuan pendidikan",
+        "fungsi normatif pendidikan yang pertama berisi?",
+        "tujuan dari pendidikan sebagai orientasi kelembagaan adalah ?"
 
       ],
       "responses": [
@@ -382,7 +663,14 @@
     {
       "tag": "Pendidikan sebagai motivator bagi individu",
       "patterns": [
-        "Pendidikan sebagai motivator bagi individu"
+        "Pendidikan sebagai motivator bagi individu",
+        "yang dimaksud dengan pendidikan sebagai motivator bagi individu adalah ?",
+        "jelaskan makna dari fungsi yang kedua dari tujuan pendidikan",
+        "fungsi normatif pendidikan yang kedua isinya adalah ?",
+        "pendidikan sebagai pendorong individu, mengacu pada konsep bahwa ?",
+        "pendidikan memiliki peran sebagai motivator yang memberikan dorongan kepada individu, yang berarti ?",
+        "mengapa pendidikan merupakan motivator bagi individu ?",
+        "apakah pendidikan menjadi motivasi bagi setiap individu ?"
 
       ],
       "responses": [
@@ -392,27 +680,47 @@
     {
       "tag": "Pendidikan Sebagai Kriteria Evaluasi Kinerja Pendidikan",
       "patterns": [
-        "Pendidikan Sebagai Kriteria Evaluasi Kinerja Pendidikan"
+        "Pendidikan Sebagai Kriteria Evaluasi Kinerja Pendidikan",
+        "pendidikan memiliki peran sebagai kriteria evaluasi kinerja pendidikan yang berarti ?",
+        "fungsi normatif pendidikan yang ketiga yaitu?",
+        "apa makna dari fungsi ketiga dalam tujuan pendidikan?",
+        "jelaskan yang kamu ketahui mengenai pendidikan sebagai kriteria evaluasi kinerja pendidikan"
 
       ],
       "responses": [
-        "Kemajuan pendidikan hanya bisa ditera apakah tujuan yang ingin diraih ini telah tercapai atau belum. Dengan demikian, tujuan pendidikan bersifat evaluatif bagi kinerja pendidikan. Tanpa ada tujuan pendidikan, tidak akan dapat dilakukan evaluasi atas hasil- hasil sebuah pendidikan."
+        "Kemajuan pendidikan hanya bisa ditera apakah tujuan yang ingin diraih ini telah tercapai atau belum. Dengan demikian, tujuan pendidikan bersifat evaluatif bagi kinerja pendidikan. Tanpa ada tujuan pendidikan ini, tidak akan dapat dilakukan evaluasi atas hasil-hasil sebuah pendidikan."
       ]
     },
     {
       "tag": "asal usul tujuan pendidikan",
       "patterns": [
-        "asal usul tujuan pendidikan"
+        "asal usul tujuan pendidikan",
+        "darimana sumber tujuan pendidikan berasal ?",
+        "bagaimana asal muasal tujuan pendidikan dapat dijelaskan ?",
+        "tuliskan asal usul tujuan pendidikan yang kamu ketahui ?",
+        "asal usul tujuan pendidikan terbagi menjadi 3, yaitu ?",
+        "darimanakah tujuan pendidikan awalnya berasal ?"
 
       ],
       "responses": [
-        "Pertama, ada yang berpendapat bahwa pendidikan bertujuan untuk menjaga keberlangsungan kehidupan sosial dalam masyarakat kita sehingga tujuan pendidikan tidak lain adalah untuk mempersiapkan anak-anak muda supaya dapat dengan lancar tanpa masalah memasuki kehidupan sosial orang-orang dewasa. Tujuan pendidikan dalam artian ini mengacu pada dinamika dan kompleksitas masyarakat. Dengan demikian pendidikan bertujuan untuk membawa, mendidik, dan membesarkan anak-anak remaja sedemikian rupa sehingga pendidikan menjadi sarana persiapan untuk pengembangan kompetensi sebagai orang dewasa sebagaimana dituntutkan dalam masyarakat. Pendidikan bersifat integratif bagi tiap individu ketika memasuki kehidupan sosial. <p>Kedua, tujuan pendidikan bisa ditentukan oleh tujuan politis sebuah masyarakat. Pendidikan memang tidak dapat melepaskan diri dari pembentukan manusia didalam masyarakat yang nantinya dapat secara aktif terlibat dalam kehidupan politis, individu hanya menjadi bulan-bulanan permainan para politisi. Tanpa kebebasan mengutarakan pendapatnya didepan public, manusia menghilangkan kesempatan dirinya menjadi agen perubahan masyarakat. Namun demikian, tujuan pendidikan semata-mata pada dimensi politis ini memiskinkan keberadaan manusia yang bukan sekadar sebagai zoon politicon saja. <p>Ketiga, adapula yang mendasarkan tujuan pendidikan mereka dari analisis situasi sosial aktual kontemporer dengan cara mendeskripsikan dan menganalisis berbagai macam pekerjaan dan karier yang dikerjakan oleh orang-orang dewasa pada masa kini. Melalui data-data analisis situasi kontemporer ini sekolah mengarahkan anak didik agar tidak mengalami kesulitan ketika harus terjun ketengah masyarakat sesuai pekerjaan yang tersedia dalam masyarakat."
+        "Pertama, ada yang berpendapat bahwa pendidikan bertujuan untuk menjaga keberlangsungan kehidupan sosial dalam masyarakat kita sehingga tujuan pendidikan tidak lain adalah untuk mempersiapkan anak-anak muda supaya dapat dengan lancar tanpa masalah memasuki kehidupan sosial orang-orang dewasa. Tujuan pendidikan dalam artian ini mengacu pada dinamika dan kompleksitas masyarakat. Dengan demikian pendidikan bertujuan untuk membawa, mendidik, dan membesarkan anak-anak remaja sedemikian rupa sehingga pendidikan menjadi sarana persiapan untuk pengembangan kompetensi sebagai orang dewasa sebagaimana dituntutkan dalam masyarakat. Pendidikan bersifat integratif bagi tiap individu ketika memasuki kehidupan sosial. <br><br>Kedua, tujuan pendidikan bisa ditentukan oleh tujuan politis sebuah masyarakat. Pendidikan memang tidak dapat melepaskan diri dari pembentukan manusia didalam masyarakat yang nantinya dapat secara aktif terlibat dalam kehidupan politis, individu hanya menjadi bulan-bulanan permainan para politisi. Tanpa kebebasan mengutarakan pendapatnya didepan public, manusia menghilangkan kesempatan dirinya menjadi agen perubahan masyarakat. Namun demikian, tujuan pendidikan semata-mata pada dimensi politis ini memiskinkan keberadaan manusia yang bukan sekadar sebagai zoon politicon saja. <br><br>Ketiga, adapula yang mendasarkan tujuan pendidikan mereka dari analisis situasi sosial aktual kontemporer dengan cara mendeskripsikan dan menganalisis berbagai macam pekerjaan dan karier yang dikerjakan oleh orang-orang dewasa pada masa kini. Melalui data-data analisis situasi kontemporer ini sekolah mengarahkan anak didik agar tidak mengalami kesulitan ketika harus terjun ketengah masyarakat sesuai pekerjaan yang tersedia dalam masyarakat."
       ]
     },
     {
       "tag": "lingkungan pendidikan",
       "patterns": [
-        "Pengertian Lingkungan Pendidikan"
+        "Pengertian Lingkungan Pendidikan",
+        "definisi dari lingkungan pendidikan adalah ?",
+        "jelaskan apa yang dimaksud dengan lingkungan pendidikan ?",
+        "apa yang dimaksud dengan lingkungan pendidikan ?",
+        "lingkungan pendidikan didefinisikan sebagai ?",
+        "lingkungan pendidikan adalah ?",
+        "lingkungan pendidikan dapat dipahami sebagai ?",
+        "apa saja yang mencakup pada lingkungan pendidikan ?",
+        "pada dasarnya lingkungan pendidikan berarti ?",
+        "dalam pengertian yang sebenarnya yang dimaksud dengan lingkungan pendidikan adalah ?",
+        "apa itu lingkungan pendidikan ?",
+        "tuliskan apa yang kamu ketahui mengenai lingkungan pendidikan"
 
       ],
       "responses": [
@@ -422,7 +730,13 @@
     {
       "tag": "Lembaga Pendidikan",
       "patterns": [
-        "Lembaga Pendidikan adalah"
+        "Lembaga Pendidikan adalah",
+        "jelaskan definisi dari lembaga pendidikan",
+        "apa yang kamu ketahui mengenai lembaga pendidikan",
+        "apa itu lembaga pendidikan ?",
+        "pengertian dari lembaga pendidikan adalah ?",
+        "secara umum lembaga pendidikan dapat dijelaskan sebagai ?",
+        "apakah yang dimaksud dengan lembaga pendidikan ?"
 
       ],
       "responses": [
@@ -432,7 +746,14 @@
     {
       "tag": "Fungsi Lembaga Pendidikan",
       "patterns": [
-        "Fungsi Lembaga Pendidikan"
+        "Fungsi Lembaga Pendidikan",
+        "secara umum fungsi dari lembaga pendidikan adalah ?",
+        "apa peran dari lembaga pendidikan ?",
+        "apa fungsi sebenarnya yang dimiliki oleh lembaga pendidikan ?",
+        "jelaskan fungsi lembaga pendidikan",
+        "yang menjadi peranan utama dari lembaga pendidikan adalah ?",
+        "tuliskan manfaat dari lembaga pendidikan ?",
+        "lembaga pendidikan mempunyai fungsi yaitu ?"
 
       ],
       "responses": [
@@ -440,75 +761,72 @@
       ]
     },
     {
-      "tag": "kegiatan manusiawi",
+      "tag": "cakupan lingkungan pendidikan",
       "patterns": [
-        "Pendidikan sebagai sebuah kegiatan manusiawi"
+        "cakupan lingkungan pendidikan",
+        "lingkungan pendidikan mencakup apa saja ?",
+        "apa saja cakupan lingkungan pendidikan ?",
+        "apa saja yang termasuk dalam ruang lingkup lingkungan pendidikan ?",
+        "cakupan lingkungan pendidikan terbagi menjadi 3 yaitu ?",
+        "lingkungan pendidikan mempunyai tiga cakupan yaitu ?",
+        "menurut Hasbullah lingkungan pendidikan mencakup apa saja ?",
+        "menurut para ahli yang mencakup lingkungan pendidikan adalah",
+        "hasbullah membagi lingkungan pendidikan menjadi 3 cakupan yaitu ?",
+        "jelaskan cakupan dari lingkungan pendidikan"
 
       ],
       "responses": [
-        "Sebagai sebuah kegiatan manusiawi, pendidikan membuat manusia membuka diri terhadap dunia. Manusia berkembang melalui kegiatan membudaya dalam memaknai sejarahnya di dunia ini, memahami kebebasannya yang selalu ada dalam situasi agar mereka semakin mampu memberdayakan dirinya. Dalam bahasa Driyarkara, kondisi ini disebut sebagai pengangkatan diri sendiri di atas kodrat alam dan dunia material di atas determinisnya. Sebagai sebuah kegiatan manusiawi, pendidikan juga menyertakan dimensi penggolongan kelas dalam corak relasionalisnya. Dalam penggunaan kata sehari-hari, misalnya ketika kita mengatakan pendidikan, apa yang dimaksudkan terutama adalah sebuah kegiatan manusiawi yang berkaitan dengan figur yang memiliki peran khusus, seperti orang tua, guru, pengajar, dosen, imam, pendidik. Singkatnya pendidikan bisa mengacu pada semua subjek yang memiliki konteks relasional secara khusus dengan subjek lain, memiliki relasi yang sifatnya interpersonal, sebuah relasi terarah pada proses pemeliharaan, penumbuhan, dan membentuk seorang individu yang sedang ada di dalam proses pertumbuhan."
+        "Menurut Hasbullah (2003) lingkungan pendidikan mencakup : <br><br>a. Tempat (lingkungan fisik), keadaan iklim, keadaan tanah, keadaan alam. <br>b. Kebudayaan (lingkungan budaya) dengan warisan budaya tertentu seperti bahasa, seni, ekonomi, ilmu pengetahuan, pandangan hidup dan pandangan keagamaan. <br>c. Kelompok hidup bersama (lingkungan sosial atau masyarakat) keluarga, kelompok bermain"
       ]
     },
     {
-      "tag": "kegiatan manusiawi",
+      "tag": "pengaruh lingkungan pendidikan",
       "patterns": [
-        "Pendidikan sebagai sebuah kegiatan manusiawi"
+        "pengaruh lingkungan pendidikan terhadap peserta didik adalah ?",
+        "apa dampak lingkungan pendidikan terhadap peserta didik ?",
+        "apa pengaruh lingkungan pendidikan dalam membentuk kebiasaan belajar peserta didik ?",
+        "bagaimana lingkungan pendidikan mempengaruhi peserta didik ?",
+        "bagaimana pengaruh lingkungan pendidikan terhadap peserta didik ?",
+        "jelaskan pengaruh lingkungan terhadap peserta didik"
 
       ],
       "responses": [
-        "Sebagai sebuah kegiatan manusiawi, pendidikan membuat manusia membuka diri terhadap dunia. Manusia berkembang melalui kegiatan membudaya dalam memaknai sejarahnya di dunia ini, memahami kebebasannya yang selalu ada dalam situasi agar mereka semakin mampu memberdayakan dirinya. Dalam bahasa Driyarkara, kondisi ini disebut sebagai pengangkatan diri sendiri di atas kodrat alam dan dunia material di atas determinisnya. Sebagai sebuah kegiatan manusiawi, pendidikan juga menyertakan dimensi penggolongan kelas dalam corak relasionalisnya. Dalam penggunaan kata sehari-hari, misalnya ketika kita mengatakan pendidikan, apa yang dimaksudkan terutama adalah sebuah kegiatan manusiawi yang berkaitan dengan figur yang memiliki peran khusus, seperti orang tua, guru, pengajar, dosen, imam, pendidik. Singkatnya pendidikan bisa mengacu pada semua subjek yang memiliki konteks relasional secara khusus dengan subjek lain, memiliki relasi yang sifatnya interpersonal, sebuah relasi terarah pada proses pemeliharaan, penumbuhan, dan membentuk seorang individu yang sedang ada di dalam proses pertumbuhan."
+        "Lingkungan pendidikan memiliki pengaruh yang berbeda-beda terhadap peserta didik. Perbedaan pengaruh tersebut tergantung jenis lingkungan pendidikan tempat peserta didik terlibat didalamnya. Hal ini karena masing-masing jenis lingkungan pendidikan memiliki situasi sosial yang berbeda-beda. Situasi sosial yang di maksud meliputi faktor perencanaan, sarana dan sistem pendidikan pada masing-masing jenis lingkungan. Intensitas pengaruh lingkungan terhadap peserta didik tergantung sejauh mana anak dapat menyerap rangsangan yang diberikan lingkungannya dan sejauh mana lingkungan mampu memahami dan memberikan fasilitas terhadap kebutuhan pendidikan peserta didik"
       ]
     },
     {
-      "tag": "kegiatan manusiawi",
+      "tag": "fungsi lingkungan pendidikan",
       "patterns": [
-        "Pendidikan sebagai sebuah kegiatan manusiawi"
+        "fungsi lingkungan pendidikan adalah ?",
+        "apa saja fungsi-fungsi dari lingkungan pendidikan ?",
+        "lima fungsi dari lingkungan pendidikan adalah ?",
+        "sebutkan fungsi lingkungan pendidikan yang kamu ketahui",
+        "ada berapa fungsi lingkungan pendidikan ?",
+        "5 fungsi lingkungan pendidikan yaitu ?",
+        "lingkungan pendidikan mempunyai 5 fungsi yaitu ?",
+        "jelaskan fungsi lingkungan pendidikan"
 
       ],
       "responses": [
-        "Sebagai sebuah kegiatan manusiawi, pendidikan membuat manusia membuka diri terhadap dunia. Manusia berkembang melalui kegiatan membudaya dalam memaknai sejarahnya di dunia ini, memahami kebebasannya yang selalu ada dalam situasi agar mereka semakin mampu memberdayakan dirinya. Dalam bahasa Driyarkara, kondisi ini disebut sebagai pengangkatan diri sendiri di atas kodrat alam dan dunia material di atas determinisnya. Sebagai sebuah kegiatan manusiawi, pendidikan juga menyertakan dimensi penggolongan kelas dalam corak relasionalisnya. Dalam penggunaan kata sehari-hari, misalnya ketika kita mengatakan pendidikan, apa yang dimaksudkan terutama adalah sebuah kegiatan manusiawi yang berkaitan dengan figur yang memiliki peran khusus, seperti orang tua, guru, pengajar, dosen, imam, pendidik. Singkatnya pendidikan bisa mengacu pada semua subjek yang memiliki konteks relasional secara khusus dengan subjek lain, memiliki relasi yang sifatnya interpersonal, sebuah relasi terarah pada proses pemeliharaan, penumbuhan, dan membentuk seorang individu yang sedang ada di dalam proses pertumbuhan."
+        "Fungsi lingkungan pendidikan adalah sebagai berikut :<br><br>a. Lingkungan pendidikan dapat menjamin kehidupan emosional peserta didik untuk tumbuh dan berkembang. Kehidupan emosional ini sangat penting dalam pembentukan pribadi anak. <br><br>b. Lingkungan pendidikan membantu peserta didik dalam berinteraksi dengan berbagai lingkungan sekitarnya baik lingkungan fisik, sosial, maupun budaya, terutama berbagai sumber daya pendidikan yang tersedia agar dapat dicapai tujuan pendidikan secara optimal. <br><br>c. Lingkungan pendidikan berfungsi sebagai wahana yang amat besar bagi perkembangan individu dan masyarakat dalam memperluas dan mempercepat usaha mencerdaskan kehidupan bangsa.<br><br>d. Mengajarkan tingkah laku umum dan untuk menyeleksi serta mempersiapkan peranan-peranan tertentu dalam masyarakat. <br><br>e. Didalam lingkungan pendidikan dapat mengembangkan kemampuan-kemampuan yang dimiliki peserta didik baik dalam bentuk karier, akademik, kehidupan beragama, kehidupan sosial budaya, maupun keterampilan lainnya."
       ]
     },
     {
-      "tag": "kegiatan manusiawi",
+      "tag": "ragam bentuk lingkungan pendidikan",
       "patterns": [
-        "Pendidikan sebagai sebuah kegiatan manusiawi"
+        "ragam bentuk lingkungan pendidikan adalah ?",
+        "jelaskan ragam bentuk dari lingkungan pendidikan",
+        "tri pusat pendidikan yaitu ?",
+        "apa saja isi dari tri pusat pendidikan ?",
+        "lingkungan pendidikan mempunyai ragam bentuk berupa ?",
+        "ada berbagai ragam bentuk lingkungan pendidikan yaitu ?"
 
       ],
       "responses": [
-        "Sebagai sebuah kegiatan manusiawi, pendidikan membuat manusia membuka diri terhadap dunia. Manusia berkembang melalui kegiatan membudaya dalam memaknai sejarahnya di dunia ini, memahami kebebasannya yang selalu ada dalam situasi agar mereka semakin mampu memberdayakan dirinya. Dalam bahasa Driyarkara, kondisi ini disebut sebagai pengangkatan diri sendiri di atas kodrat alam dan dunia material di atas determinisnya. Sebagai sebuah kegiatan manusiawi, pendidikan juga menyertakan dimensi penggolongan kelas dalam corak relasionalisnya. Dalam penggunaan kata sehari-hari, misalnya ketika kita mengatakan pendidikan, apa yang dimaksudkan terutama adalah sebuah kegiatan manusiawi yang berkaitan dengan figur yang memiliki peran khusus, seperti orang tua, guru, pengajar, dosen, imam, pendidik. Singkatnya pendidikan bisa mengacu pada semua subjek yang memiliki konteks relasional secara khusus dengan subjek lain, memiliki relasi yang sifatnya interpersonal, sebuah relasi terarah pada proses pemeliharaan, penumbuhan, dan membentuk seorang individu yang sedang ada di dalam proses pertumbuhan."
-      ]
-    },
-    {
-      "tag": "kegiatan manusiawi",
-      "patterns": [
-        "Pendidikan sebagai sebuah kegiatan manusiawi"
-
-      ],
-      "responses": [
-        "Sebagai sebuah kegiatan manusiawi, pendidikan membuat manusia membuka diri terhadap dunia. Manusia berkembang melalui kegiatan membudaya dalam memaknai sejarahnya di dunia ini, memahami kebebasannya yang selalu ada dalam situasi agar mereka semakin mampu memberdayakan dirinya. Dalam bahasa Driyarkara, kondisi ini disebut sebagai pengangkatan diri sendiri di atas kodrat alam dan dunia material di atas determinisnya. Sebagai sebuah kegiatan manusiawi, pendidikan juga menyertakan dimensi penggolongan kelas dalam corak relasionalisnya. Dalam penggunaan kata sehari-hari, misalnya ketika kita mengatakan pendidikan, apa yang dimaksudkan terutama adalah sebuah kegiatan manusiawi yang berkaitan dengan figur yang memiliki peran khusus, seperti orang tua, guru, pengajar, dosen, imam, pendidik. Singkatnya pendidikan bisa mengacu pada semua subjek yang memiliki konteks relasional secara khusus dengan subjek lain, memiliki relasi yang sifatnya interpersonal, sebuah relasi terarah pada proses pemeliharaan, penumbuhan, dan membentuk seorang individu yang sedang ada di dalam proses pertumbuhan."
-      ]
-    },
-    {
-      "tag": "kegiatan manusiawi",
-      "patterns": [
-        "Pendidikan sebagai sebuah kegiatan manusiawi"
-
-      ],
-      "responses": [
-        "Sebagai sebuah kegiatan manusiawi, pendidikan membuat manusia membuka diri terhadap dunia. Manusia berkembang melalui kegiatan membudaya dalam memaknai sejarahnya di dunia ini, memahami kebebasannya yang selalu ada dalam situasi agar mereka semakin mampu memberdayakan dirinya. Dalam bahasa Driyarkara, kondisi ini disebut sebagai pengangkatan diri sendiri di atas kodrat alam dan dunia material di atas determinisnya. Sebagai sebuah kegiatan manusiawi, pendidikan juga menyertakan dimensi penggolongan kelas dalam corak relasionalisnya. Dalam penggunaan kata sehari-hari, misalnya ketika kita mengatakan pendidikan, apa yang dimaksudkan terutama adalah sebuah kegiatan manusiawi yang berkaitan dengan figur yang memiliki peran khusus, seperti orang tua, guru, pengajar, dosen, imam, pendidik. Singkatnya pendidikan bisa mengacu pada semua subjek yang memiliki konteks relasional secara khusus dengan subjek lain, memiliki relasi yang sifatnya interpersonal, sebuah relasi terarah pada proses pemeliharaan, penumbuhan, dan membentuk seorang individu yang sedang ada di dalam proses pertumbuhan."
-      ]
-    },
-    {
-      "tag": "kegiatan manusiawi",
-      "patterns": [
-        "Pendidikan sebagai sebuah kegiatan manusiawi"
-
-      ],
-      "responses": [
-        "Sebagai sebuah kegiatan manusiawi, pendidikan membuat manusia membuka diri terhadap dunia. Manusia berkembang melalui kegiatan membudaya dalam memaknai sejarahnya di dunia ini, memahami kebebasannya yang selalu ada dalam situasi agar mereka semakin mampu memberdayakan dirinya. Dalam bahasa Driyarkara, kondisi ini disebut sebagai pengangkatan diri sendiri di atas kodrat alam dan dunia material di atas determinisnya. Sebagai sebuah kegiatan manusiawi, pendidikan juga menyertakan dimensi penggolongan kelas dalam corak relasionalisnya. Dalam penggunaan kata sehari-hari, misalnya ketika kita mengatakan pendidikan, apa yang dimaksudkan terutama adalah sebuah kegiatan manusiawi yang berkaitan dengan figur yang memiliki peran khusus, seperti orang tua, guru, pengajar, dosen, imam, pendidik. Singkatnya pendidikan bisa mengacu pada semua subjek yang memiliki konteks relasional secara khusus dengan subjek lain, memiliki relasi yang sifatnya interpersonal, sebuah relasi terarah pada proses pemeliharaan, penumbuhan, dan membentuk seorang individu yang sedang ada di dalam proses pertumbuhan."
+        "Lingkungan pendidikan adalah tempat seseorang memperoleh penddikan secara langsung atau tidak langsung. Oleh karena itu, lingkungan pendidikan ada bersifat sosial dan material. Lingkungan pendidikan secara garis besar besarnya oleh Ki Hajar Dewantoro dibagi menjadi tiga yang disebut dengan Tri Pusat Pendidikan, yaitu keluarga, sekolah dan masyarakat, hal itu sejalan dengan yang dinyatakan oleh Langeveld bahwa yang bertanggung jawab dalam pendidikan adalah keluarga, sekolah dan masyarakat"
       ]
     }
+    
     
   ]
 }
