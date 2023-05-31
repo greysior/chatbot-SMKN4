@@ -1032,11 +1032,102 @@
       "tag": "hambatan dalam pendidikan keluarga",
       "patterns": [
         "apa saja hambatan dalam pendidikan keluarga ?",
-        "yang menjadi hambatan dalam pendidikan di lingkungan keluarga yaitu ?"
+        "apa saja rintangan yang dihadapi dalam pendidikan di lingkungan keluarga ?",
+        "apa kendala yang muncul dalam proses pendidikan keluarga ?",
+        "yang menjadi hambatan dalam pendidikan di lingkungan keluarga yaitu ?",
+        "sebutkan kendala-kendala yang ada didalam pendidikan lingkungan keluarga",
+        "sebutkan hambatan apa saja yang ada dalam pendidikan keluarga",
+        "hambatan dalam pendidikan keluarga yaitu ?",
+        "macam-macam hambatan dalam pendidikan di lingkungan keluarga adalah ?",
+        "apa yang menjadi halangan dalam pendidikan di lingkungan keluarga ?",
+        "jelaskan kesulitan apa yang sering muncul dalam pendidikan di lingkungan keluarga",
+        "apa hambatan yang umumnya ditemui dalam pendidikan keluarga ?",
+        "jelaskan macam-macam kendala pendidikan di lingkungan keluarga",
+        "kendala yang kerap timbul dalam pendidikan di lingkungan keluarga yaitu ?"
 
       ],
       "responses": [
         "1) Anak kurang mendapatkan perhatian dan kasih sayang dari orang tua. <br><br>2) Figur orang tua yang tidak mampu memberikan keteladanan pada anak. <br><br>3) Sosial ekonomi keluarga yang kurang atau sebaliknya yang tidak bisa menunjang belajar. <br><br>4) Kasih sayang orang tua yang berlebihan sehingga cenderung untuk memanjakan anak. <br><br>5) Orang tua yang tidak bisa memberikan rasa aman kepada anak, tuntutan orang tua yang terlalu tinggi. <br><br>6) Orang tua yang tidak bisa memberikan kepercayaan kepada anak. <br><br>7) Orang tua yang tidak bisa membangkitkan inisiatif dan kreatifitas kepada anak"
+      ]
+    },
+    {
+      "tag": "lingkungan sekolah",
+      "patterns": [
+        "pendidikan formal adalah ?",
+        "Pendidikan di lingkungan sekolah adalah ?",
+        "apa arti dari pendidikan di lingkungan sekolah ?",
+        "pendidikan di sekolah mencakup ?",
+        "bagaimana peran pendidikan didalam lingkungan sekolah ?",
+        "pendidikan di lingkungan sekolah apakah diperlukan ?",
+        "bagaimana pendidikan di lingkungan sekolah dapat membentuk karakter peserta didik ?",
+        "mengapa pendidikan di lingkungan sekolah itu penting ?",
+        "lingkungan sekolah disebut sebagai lembaga pendidikan apa ?",
+        "apakah pendidikan di lingkungan sekolah itu penting ?",
+        "apa manfaat pendidikan di lingkungan sekolah ?",
+        "apa saja yang diajarkan kepada anak didalam lingkungan sekolah ?",
+        "lingkungan sekolah mengajarkan apa saja kepada anak ?",
+        "lingkungan sekolah bisa berbentuk apa saja ?",
+        "apa yang dimaksud dengan pendidikan formal ?",
+        "bagaimana kita bisa mengartikan pendidikan formal ?",
+        "bagaimana pendefinisian pendidikan formal ?",
+        "apa makna dari pendidikan formal ?",
+        "apa pengertian dari pendidikan formal ?",
+        "apa arti pendidikan formal ?",
+        "pendidikan formal",
+        "secara sederhana apa yang dimaksud dengan pendidikan formal ?",
+        "apa itu pendidikan formal ?",
+        "jelaskan apa yang dimaksud dengan pendidikan formal",
+        "pengertian pendidikan formal yaitu ?",
+        "definisi dari pendidikan formal adalah ?",
+        "pendidikan sekolah biasa disebut sebagai pendidikan formal karena ?",
+        "apakah pendidikan di lingkungan sekolah itu termasuk kedalam pendidikan formal ?",
+        "terdiri atas apa saja lembaga pendidikan formal di Indonesia ?",
+        "di Indonesia lembaga pendidikan formal adalah ?"
+
+      ],
+      "responses": [
+        "Pendidikan di sekolah mencakup pendidikan umum dalam mempersiapkan peserta didik menguasai kemampuan dasar untuk melanjutkan pendidikan atau memasuki lapangan kerja. Pendidikan sekolah biasanya disebut sebagai pendidikan formal karena ia adalah pendidikan yang mempunyai dasar, tujuan, isi, metode, alat-alatnya yang disusun secara eksplisit, sistematis, dan distandarisasikan. Penjabaran fungsi sekolah sebagai pusat pendidikan formal, terlihat pada tujuan instruksional, yaitu tujuan kelembagaan pada masing-masing jenis dalam tingkatan sekolah. Di Indonesia lembaga pendidikan formal adalah pra sekolah, Sekolah Dasar, Sekolah Menengah Pertama, dan Sekolah Menengah Atas yang terdiri dari sekolah menengah umum dan kejuruan, serta perguruan tinggi dengan aneka ragam bidangnya. Tujuan institusional untuk masing-masing tingkat atau jenis pendidikan, pencapaiannya di topang oleh tujuan-tujuan kurikuler dan tujuan instruksional"
+      ]
+    },
+    {
+      "tag": "fungsi pendidikan berdasarkan asas tanggung jawab",
+      "patterns": [
+        "apa fungsi pendidikan berdasarkan asas tanggung jawab ?",
+        "apa saja peran pendidikan yang didasarkan pada asas tanggung jawab ?",
+        "berdasarkan asas tanggung jawab, apa fungsi pendidikan",
+        "sebutkan 3 asas tanggung jawab terhadap fungsi pendidikan",
+        "fungsi pendidikan berdasarkan asas tanggung jawab ada 3 yaitu ?",
+        "tiga asas tanggung jawab dalam fungsi pendidikan yaitu ?",
+        "jelaskan tiga asas tanggung jawab mengenai fungsi pendidikan"
+
+      ],
+      "responses": [
+        "1) Tanggung jawab formal kelembagaan sesuai dengan fungsi dan tujuan yang ditetapkan menurut ketentuan-ketentuan yang berlaku. <br><br>2) Tanggung jawab keilmuan berdasarkan bentuk, isi, tujuan dan tingkat pendidikan yang dipercayakan kepadanya oleh masyarakat dan negara. <br><br>3) Tanggung jawab fungsional ialah tanggung jawab profesional pengelola dan pelaksana pendidikan yang menerima ketetapan ini berdasarkan ketentuan-ketentuan jabatannya"
+      ]
+    },
+    {
+      "tag": "3 cara evaluasi pendidikan",
+      "patterns": [
+        "3 cara evaluasi pendidikan ?",
+        "bagaimana cara-cara evaluasi pendidikan ?",
+        "apa saja 3 cara dalam mengevaluasi pendidikan",
+        "apa saja tahapan yang ada dalam evaluasi pendidikan ?",
+        "jelaskan cara dalam mengevaluasi pendidikan",
+        "apa yang kamu ketahui mengenai evaluasi pendidikan",
+        "dalam mengevaluasi pendidikan cara yang dilakukan terbagi menjadi 3 yaitu ?",
+        "evaluasi pendidikan terbagi menjadi 3 cara yaitu ?",
+        "sebutkan tiga cara dalam evaluasi pendidikan",
+        "evaluasi pendidikan mempunyai tiga tahapan yaitu ?",
+        "sebutkan bagaimana evaluasi pendidikan dilakukan ?",
+        "apa itu evaluasi pendidikan secara formatif ?",
+        "evaluasi pendidikan formatif adalah ?",
+        "evaluasi pendidikan sumatif adalah ?",
+        "kapan dilakukan evaluasi formatif ?",
+        "evaluasi pendidikan sumatif kapan dilakukan ?"
+
+      ],
+      "responses": [
+        "1) Formatif, dilakukan setiap selesai satu sesi pembelajaran <br><br>2) Sumatif, yang dilakukan setiap semester atau setiap tahun <br><br>3) UN (Ujian Nasional) adalah evaluasi yang diselenggarakan pada sekolah yang diselenggarakan oleh pemerintah atau sekolah swasta yang berada dalam naungan pemerintah. Ujian ini bertujuan untuk mengawasi kualitas penyelenggaraan pendidikan dan bermaksud untuk mengukur kompetensi murid yang akan menyelesaikan pendidikan pada satu tingkat lembaga supaya mempunyai standar kualitas minimal yang relatif sama secara nasional"
       ]
     }
     
