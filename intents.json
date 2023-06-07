@@ -1139,6 +1139,62 @@
       "responses": [
         "Evaluasi untuk mengukur kemampuan peserta didik untuk menyelesaikan pendidikannya pada suatu jenjang atau jenis pendidikan dilakukan melalui 3 cara yaitu : <br><br>1) Formatif, dilakukan setiap selesai satu sesi pembelajaran <br><br>2) Sumatif, yang dilakukan setiap semester atau setiap tahun <br><br>3) UN (Ujian Nasional) adalah evaluasi yang diselenggarakan pada sekolah yang diselenggarakan oleh pemerintah atau sekolah swasta yang berada dalam naungan pemerintah. Ujian ini bertujuan untuk mengawasi kualitas penyelenggaraan pendidikan dan bermaksud untuk mengukur kompetensi murid yang akan menyelesaikan pendidikan pada satu tingkat lembaga supaya mempunyai standar kualitas minimal yang relatif sama secara nasional"
       ]
+    },
+    {
+      "tag": "jenjang sekolah",
+      "patterns": [
+        "Sekolah bersifat klasikal artinya ?",
+        "sekolah mempunyai sifat berjenjang artinya ?",
+        "ciri ciri jenjang sekolah adalah ?",
+        "jenjang sekolah terdiri dari apa saja ?",
+        "jelaskan jenjang yang ada didalam sekolah",
+        "terdapat beberapa tipe jenjang sekolah yaitu ?",
+        "apa saja jenis jenis jenjang sekolah ?",
+        "jelaskan ciri ciri jenjang sekolah ?",
+        "jenjang sekolah terbagi menjadi apa saja ?",
+        "ragam jenis jenjang sekolah yaitu ?",
+        "jelaskan berbagai macam jenjang sekolah",
+        "tipe tipe jenjang sekolah terdiri atas ?",
+        "ada beberapa kategori jenjang sekolah yaitu",
+        "jenjang sekolah memiliki ciri ciri yaitu ?",
+        "apa itu jenjang lembaga ?",
+        "jelaskan mengenai jenjang lembaga",
+        "jenjang lembaga terdiri atas apa saja ?",
+        "jenjang lembaga dikelola oleh ?",
+        "jelaskan mengenai jenjang kelas",
+        "apa itu jenjang kelas ?",
+        "jenjang kelas terdiri dari ?",
+        "apakah perguruan tinggi menggunakan jenjang kelas ?"
+
+      ],
+      "responses": [        
+      "Sekolah sebagai pendidikan formal dirancang sedemikian rupa agar lebih efektif dan efisien, yaitu bersifat klasikal dan berjenjang. Sistem klasikal memungkinkan sejumlah anak belajar bersama dan dipimpin oleh seorang atau beberapa orang guru sebagai fasilitator. Sekolah memiliki ciri jenjang yang dapat dijelaskan sebagi berikut :<br><br>1) Jenjang lembaga, sekolah dirancang dengan berbagai tingkatan, dari Taman Kanak-Kanak (TK) sampai perguruan tinggi (PT). sebagian dikelola oleh Kementerian Pendidikan Nasional dan sebagian lainnya dikelola oleh Kementerian Agama. <br><br>2) Jenjang kelas, berjenjang menurut tingkatan kelas, murid hanya bisa mengikuti pendidikan pada kelas yang lebih tinggi apabila ia telah mampu menyelesaikan pendidikan di tingkat sebelumnya. Jenjang kelas ini bervariasi, yaitu di tingkat SD/MI terdiri dari enam kelas, SMP/MTs terdiri dari tiga kelas, SMA/MA/sederajat terdiri dari tiga kelas, sedangkan di Perguruan Tinggi tidak ditentukan dengan jenjang kelas melainkan semester"
+    ]
+    },
+    {
+      "tag": "lingkungan masyarakat",
+      "patterns": [
+        "Pendidikan di lingkungan masyarakat adalah ?",
+        "apa arti dari pendidikan di lingkungan masyarakat ?",
+        "lingkungan pendidikan yang terakhir ada dimana ?",
+        "apa lingkungan pendidikan yang terakhir ?",
+        "dimana lingkungan pendidikan terakhir ?",
+        "masyarakat merupakan pendidikan terakhir karena ?",
+        "bagaimana peran pendidikan didalam masyarakat ?",
+        "mengapa pendidikan di lingkungan masyarakat penting ?",
+        "pendidikan masyarakat adalah pendidikan tersier karena ?",
+        "pendidikan di lingkungan masyarakat itu penting karena ?",
+        "lingkungan masyarakat disebut sebagai lembaga pendidikan apa ?",
+        "apakah pendidikan di lingkungan masyarakat itu penting ?",
+        "apa manfaat pendidikan di lingkungan masyarakat ?",
+        "apa saja yang diajarkan didalam lingkungan masyarakat ?",
+        "lingkungan masyarakat mengajarkan apa saja ?",
+        "lingkungan masyarakat bersifat permanen karena ?"
+
+      ],
+      "responses": [
+        "Secara sederhana masyarakat dapat diartikan sebagai kumpulan individu dan kelompok yang diikat oleh kesatuan negara dan kebudayaan. Setiap masyarakat mempunyai cita- cita, peraturan-peraturan dan sistem kekuasaan tertentu. Lembaga pendidikan ini berorientasi langsung kepada hal-hal yang bertalian dengan kehidupan. Pendidikan masyarakat merupakan pendidikan yang menunjang pendidikan keluarga dan sekolah. Masyarakat besar pengaruhnya dalam memberi arah terhadap pendidikan anak, terutama para pemimpin masyarakat atau penguasa yang ada di dalamnya. Corak dan ragam pendidikan yang dialami seseorang dalam  masyarakat meliputi segala bidang, baik pembentukan kebiasaan-kebiasaan, pembentukan pengertian (pengetahuan) sikap dan minat, maupun pembentukan kesusilaan dan keagamaan. Dalam perkembangannya lembaga pendidikan menjadi sarana pengembangan pribadi kearah kesempurnaan sebagai hasil dari pengumpulan dan latihan secara terus menerus. Lembaga pendidikan kemasyarakatan dapat mengambil bentuk organisasi kepanduan, perkumpulan pemuda, olahraga, kesenian, remaja mesjid, majlis taklim, koperasi, pusat keterampilan dan latihan, partai politik, perkumpulan agama dan lain-lain. Sosial atau masyarakat adalah pendidikan tersier yang merupakan pendidikan terakhir, tapi bersifat permanen dengan pendidiknya masyarakat itu sendiri secara sosial, kebudayaan adat istiadat dan kondisi masyarakat setempat sebagai lingkungan material"
+      ]
     }
     
   ]
