@@ -150,6 +150,6 @@ body {
 
 .msger-chat {
   background-color: #fcfcfe;
-  background-image: url("asset/bg.png");
+  /* background-image: url("asset/bg.png"); */
   background-size: cover;
 }

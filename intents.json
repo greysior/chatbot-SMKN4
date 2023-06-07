@@ -9,14 +9,14 @@
         "Halo",
         "Helo",
         "hallo",
-        "Hmm",
-        "Oy",
+        "Halo edubot",
+        "Oy", 
         "Oi",
         "Hoy",
         "Hoi",
         "Tes",
         "Test",
-        "P",
+        "selamat malam",
         "selamat pagi",
         "siang",
         "sore"
@@ -46,8 +46,8 @@
         "Kamu bisa apa",
         "bisa apa",
         "Kamu siapa?",
-        "Kamu Aneh",
-        "Kamu Gak jelas"
+        "Kamu bisa menjawab apa ?",
+        "apa yang bisa kamu jawab"
       ],
       "responses": [
         "Haloo! ChatBot ini didesain untuk menjawab beberapa pertanyaan mengenai materi pelajaran pendidikan karakter dalam bahasa Indonesia, <br>apa yang bisa saya bantu?"
